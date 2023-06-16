@@ -1,2 +1,2 @@
 # passwordGenerator
-ImGui password generator
+ImGui password generator made by me
